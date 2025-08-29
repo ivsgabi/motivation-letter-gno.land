@@ -1,11 +1,11 @@
-package hello
+package motivation
 
-// message is a global variable that stores the message to be displayed. -> so here link to my motivational letter in string
 var message string = `Motivational Letter & Profile - Johana GABA
 
 [LinkedIn](https://www.linkedin.com/in/johana-gaba) | [Portfolio](https://johanagaba.fr/) | [Download Motivational Letter](./motivation.pdf)
 
-![Picture of Johana GABA](/public/picture.png)
+| ![Johana](https://i.postimg.cc/W4g6kvB3/picture.png) | ![EPITECH](https://upload.wikimedia.org/wikipedia/commons/f/fe/Epitech_Official_Logo.png) |
+|:-------------------:|:-------------------:|
 
 *English Version*
 

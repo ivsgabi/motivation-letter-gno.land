@@ -1,4 +1,4 @@
-package hello
+package motivation
 
 import (
 	"testing"
