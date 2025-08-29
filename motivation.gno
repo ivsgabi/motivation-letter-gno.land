@@ -2,38 +2,30 @@ package motivation
 
 var message string = `Motivational Letter & Profile - Johana GABA
 
-[LinkedIn](https://www.linkedin.com/in/johana-gaba) | [Portfolio](https://johanagaba.fr/) | [Download Motivational Letter](./motivation.pdf)
+[LinkedIn](https://www.linkedin.com/in/johana-gaba-54865926b/) | [Portfolio](https://johanagaba.fr/) | [Download Motivational Letter](/public/motivation-letter-profile-gnoland.pdf)
 
-| ![Johana](https://i.postimg.cc/W4g6kvB3/picture.png) | ![EPITECH](https://upload.wikimedia.org/wikipedia/commons/f/fe/Epitech_Official_Logo.png) |
-|:-------------------:|:-------------------:|
+![Picture of Johana GABA](https://i.postimg.cc/W4g6kvB3/picture.png) 
+
+---
 
 *English Version*
 
-My name is **Johana GABA**, I am **21 years old**, and I am a student at **EPITECH**. As a curious and versatile developer, I am looking to leverage my skills in **development, data, and blockchain** on innovative and ambitious projects where I can continue learning while contributing tangible value during my studies.
+My name is **Johana GABA**, I am **21 years old**, and I am a student at **EPITECH Paris**. As a curious and versatile developer, I am looking to leverage my skills in **development, data, and blockchain** on innovative and ambitious projects where I can continue learning while contributing tangible value during my studies. I am **available full-time** and **flexible regarding the contract type**, whether it be an internship, a part-time or a full-time position.
 
-What excites me most about **Gnoland** is your ability to combine **technical innovation, openness, and boldness** while building practical and impactful solutions. I discovered your universe through **Lou Onezime**, whose internship I had the chance to follow, and I was particularly inspired by the philosophy driving your team: exploring new technologies with creativity and rigor.
+Throughout my academic and professional experiences, I have developed strong skills in **back-end and front-end development, C, C++, Python, Next.js, Git, SQL**, as well as familiarity with **low-code tools** such as Power Platform and UiPath. These experiences allow me to design and implement **concrete, effective, and agile solutions** to meet project needs.
 
-Through my experiences, I have developed strong **adaptability** and the ability to lead projects from start to finish: **back-end and front-end development, data management and analysis, and implementation of complex technical systems**. Motivated and eager to learn, I am now looking to join **Gnoland** to contribute to your projects while growing within a passionate and stimulating team.
+I am convinced that my **adaptability, curiosity, and problem-solving abilities** can bring real value to **Gnoland**. What excites me most about your company is your ability to combine **technical innovation, openness, and boldness** while building practical and impactful solutions. I really enjoyed working with **Gno** for this exercise, and I am eager to contribute to your projects and continue developing my skills within your passionate and stimulating team.
 
-Blablabla, blablabla, blablabla, blablabla (need completion).
+---
 
-I am **available full-time** and **flexible regarding the contract type**, whether it be an internship, a part-time or a full-time position.
+*Version Française*
 
-Thank you very much for considering my application.
+Je m'appelle **Johana GABA**, j’ai **21 ans**, et je suis étudiante à **EPITECH Paris**. Curieuse et polyvalente, je souhaite mettre mes compétences en **développement, data et blockchain** au service de projets innovants et ambitieux, afin de continuer à apprendre tout en apportant une valeur concrète. Je suis **disponible à temps plein** et **flexible concernant le type de contrat**, que ce soit un stage, un poste à temps partiel ou à temps plein.
 
-*French Version*
+Au cours de mon parcours académique et de mes expériences professionnelles, j’ai acquis des compétences solides en **développement back-end et front-end, C, C++, Python, Next.js, Git, SQL**, ainsi qu’une familiarité avec les **outils low-code** tels que Power Platform et UiPath. Ces expériences me permettent de concevoir et de mettre en œuvre des **solutions concrètes, efficaces et agiles**, adaptées aux besoins des projets.
 
-Je m'appelle **Johana GABA**, j’ai **21 ans**, et je suis étudiante à **EPITECH**. Curieuse et polyvalente, je souhaite mettre mes compétences en **développement, data et blockchain** au service de projets innovants et ambitieux, afin de continuer à apprendre tout en apportant une valeur concrète.
-
-Ce qui me séduit particulièrement chez **Gnoland**, c’est votre capacité à allier **innovation technique, ouverture et audace** tout en construisant des solutions pratiques et impactantes. J’ai découvert votre univers grâce à **Lou Onezime**, dont j’ai pu suivre le stage, et j’ai été particulièrement inspirée par la philosophie de votre équipe : explorer de nouvelles technologies avec créativité et rigueur.
-
-Au fil de mes expériences, j’ai développé une grande **adaptabilité** et la capacité de mener des projets de A à Z : **développement back-end et front-end, gestion et analyse de données, et mise en place de systèmes techniques complexes**. Motivée et désireuse d’apprendre, je souhaite aujourd’hui rejoindre **Gnoland** pour contribuer à vos projets tout en continuant à progresser au sein d’une équipe passionnée et stimulante.
-
-Blablabla, blablabla, blablabla, blablabla (à compléter).
-
-Je suis **disponible à temps plein** et **flexible concernant le type de contrat**, que ce soit un stage, un poste à temps partiel ou à temps plein.
-
-Je vous remercie vivement pour l’attention portée à ma candidature.`
+Je suis convaincue que ma **polyvalence, ma curiosité et ma capacité à résoudre des problèmes** constituent une réelle valeur ajoutée pour **Gnoland**. Ce qui me séduit particulièrement chez votre entreprise, c’est votre capacité à allier **innovation technique, ouverture et audace** tout en construisant des solutions pratiques et impactantes. J’ai beaucoup apprécié travailler avec **Gno** pour cet exercice, et je suis impatiente de contribuer à vos projets tout en continuant à développer mes compétences au sein de votre équipe passionnée et stimulante.
+`
 
 
 func Render(path string) string {
